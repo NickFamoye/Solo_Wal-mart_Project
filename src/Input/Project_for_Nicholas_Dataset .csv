@@ -1,0 +1,137 @@
+Store,Brand,Product,Department,Price
+Walmart,Store,Milk,Grocery,3.93
+Walmart,Name,Milk,Grocery,5
+Competitor,Store,Milk,Grocery,3.59
+Competitor,Name,Milk,Grocery,6.99
+Walmart,Store,Bread,Grocery,0.96
+Walmart,Name,Bread,Grocery,2.72
+Competitor,Store,Bread,Grocery,1.19
+Competitor,Name,Bread,Grocery,2.79
+Walmart,Store,Eggs,Grocery,1.77
+Walmart,Name,Eggs,Grocery,2.92
+Competitor,Store,Eggs,Grocery,1.49
+Competitor,Name,Eggs,Grocery,2.79
+Walmart,Store,Bananas,Grocery,0.23
+Walmart,Name,Bananas,Grocery,1.7
+Competitor,Store,Bananas,Grocery,0.25
+Competitor,Name,Bananas,Grocery,1.59
+Walmart,Store,Apples,Grocery,0.86
+Walmart,Name,Apples,Grocery,4.59
+Competitor,Store,Apples,Grocery,0.99
+Competitor,Name,Apples,Grocery,4.99
+Walmart,Store,Bottled Water,Grocery,3.48
+Walmart,Name,Bottled Water,Grocery,6.48
+Competitor,Store,Bottled Water,Grocery,3.59
+Competitor,Name,Bottled Water,Grocery,5.99
+Walmart,Store,Cake Mix,Grocery,0.98
+Walmart,Name,Cake Mix,Grocery,1.48
+Competitor,Store,Cake Mix,Grocery,1.59
+Competitor,Name,Cake Mix,Grocery,2.89
+Walmart,Store,Pudding,Grocery,1
+Walmart,Name,Pudding,Grocery,1.27
+Competitor,Store,Pudding,Grocery,1.09
+Competitor,Name,Pudding,Grocery,1.39
+Walmart,Store,Flour,Grocery,2.12
+Walmart,Name,Flour,Grocery,3.64
+Competitor,Store,Flour,Grocery,2.29
+Competitor,Name,Flour,Grocery,4.69
+Walmart,Store,Sugar,Grocery,2.57
+Walmart,Name,Sugar,Grocery,3.46
+Competitor,Store,Sugar,Grocery,2.69
+Competitor,Name,Sugar,Grocery,3.99
+Walmart,Store,Deli Meat,Grocery,3.48
+Walmart,Name,Deli Meat,Grocery,4
+Competitor,Store,Deli Meat,Grocery,3.69
+Competitor,Name,Deli Meat,Grocery,4.39
+Walmart,Store,Cheese,Grocery,2.48
+Walmart,Name,Cheese,Grocery,4.98
+Competitor,Store,Cheese,Grocery,3.79
+Competitor,Name,Cheese,Grocery,5.29
+Walmart,Store,Bagel,Grocery,2.34
+Walmart,Name,Bagel,Grocery,3.98
+Competitor,Store,Bagel,Grocery,2.79
+Competitor,Name,Bagel,Grocery,3.99
+Walmart,Store,Ice Cream,Grocery,2.24
+Walmart,Name,Ice Cream,Grocery,4.48
+Competitor,Store,Ice Cream,Grocery,2.79
+Competitor,Name,Ice Cream,Grocery,4.29
+Walmart,Store,Waffles,Grocery,1.6
+Walmart,Name,Waffles,Grocery,2.68
+Competitor,Store,Waffles,Grocery,1.39
+Competitor,Name,Waffles,Grocery,2.79
+Walmart,Store,Pizza,Grocery,3.98
+Walmart,Name,Pizza,Grocery,6.92
+Competitor,Store,Pizza,Grocery,6.29
+Competitor,Name,Pizza,Grocery,7.29
+Walmart,Store,Potatoes,Grocery,0.69
+Walmart,Name,Potatoes,Grocery,2.97
+Competitor,Store,Potatoes,Grocery,0.85
+Competitor,Name,Potatoes,Grocery,1.99
+Walmart,Store,Cookies,Grocery,1.62
+Walmart,Name,Cookies,Grocery,4.28
+Competitor,Store,Cookies,Grocery,1.99
+Competitor,Name,Cookies,Grocery,4.39
+Walmart,Store,Chips,Grocery,2.37
+Walmart,Name,Chips,Grocery,2.5
+Competitor,Store,Chips,Grocery,3.29
+Competitor,Name,Chips,Grocery,3.99
+Walmart,Store,Canned Soup,Grocery,1.26
+Walmart,Name,Canned Soup,Grocery,2.26
+Competitor,Store,Canned Soup,Grocery,1.29
+Competitor,Name,Canned Soup,Grocery,2.29
+Walmart,Store,Marinara Sauce,Grocery,1.48
+Walmart,Name,Marinara Sauce,Grocery,2.24
+Competitor,Store,Marinara Sauce,Grocery,1.59
+Competitor,Name,Marinara Sauce,Grocery,2.49
+Walmart,Store,Pasta,Grocery,0.92
+Walmart,Name,Pasta,Grocery,1.84
+Competitor,Store,Pasta,Grocery,0.95
+Competitor,Name,Pasta,Grocery,1.79
+Walmart,Store,Yogurt,Grocery,2.36
+Walmart,Name,Yogurt,Grocery,4.82
+Competitor,Store,Yogurt,Grocery,3.69
+Competitor,Name,Yogurt,Grocery,5.59
+Walmart,Store,Ketchup,Grocery,1.86
+Walmart,Name,Ketchup,Grocery,4.28
+Competitor,Store,Ketchup,Grocery,1.49
+Competitor,Name,Ketchup,Grocery,4.59
+Walmart,Store,Butter,Grocery,3.98
+Walmart,Name,Butter,Grocery,5.28
+Competitor,Store,Butter,Grocery,2.99
+Competitor,Name,Butter,Grocery,5.29
+Walmart,Store,Rolls,Grocery,3.24
+Walmart,Name,Rolls,Grocery,4.33
+Competitor,Store,Rolls,Grocery,3.7
+Competitor,Name,Rolls,Grocery,4.79
+Walmart,Store,Biscuits,Grocery,1.52
+Walmart,Name,Biscuits,Grocery,2.68
+Competitor,Store,Biscuits,Grocery,1.73
+Competitor,Name,Biscuits,Grocery,2.89
+Walmart,Store,Jelly,Grocery,2.28
+Walmart,Name,Jelly,Grocery,2.78
+Competitor,Store,Jelly,Grocery,2.49
+Competitor,Name,Jelly,Grocery,2.99
+Walmart,Store,Pepper,Grocery,3.12
+Walmart,Name,Pepper,Grocery,4.43
+Competitor,Store,Pepper,Grocery,2.99
+Competitor,Name,Pepper,Grocery,3.89
+Walmart,Store,Pain Relief,Pharmacy,3.48
+Walmart,Name,Pain Relief,Pharmacy,21.79
+Competitor,Store,Pain Relief,Pharmacy,2.99
+Competitor,Name,Pain Relief,Pharmacy,19.69
+Walmart,Store,Cough Drops,Pharmacy,3.74
+Walmart,Name,Cough Drops,Pharmacy,3.78
+Competitor,Store,Cough Drops,Pharmacy,1.99
+Competitor,Name,Cough Drops,Pharmacy,3.79
+Walmart,Store,Cold Medicine,Pharmacy,12.47
+Walmart,Name,Cold Medicine,Pharmacy,15.94
+Competitor,Store,Cold Medicine,Pharmacy,12.39
+Competitor,Name,Cold Medicine,Pharmacy,22.49
+Walmart,Store,Vitamins,Pharmacy,8.88
+Walmart,Name,Vitamins,Pharmacy,10.97
+Competitor,Store,Vitamins,Pharmacy,9.89
+Competitor,Name,Vitamins,Pharmacy,10.69
+Walmart,Store,Headache Relief,Pharmacy,4.12
+Walmart,Name,Headache Relief,Pharmacy,4.68
+Competitor,Store,Headache Relief,Pharmacy,5.19
+Competitor,Name,Headache Relief,Pharmacy,5.99
