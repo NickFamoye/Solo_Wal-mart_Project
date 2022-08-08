@@ -391,10 +391,9 @@ object Main {
         println("---" * 30)
         println(
           """
-            |   SUB-REVIEW OPTIONS 📌
-            |[a] Delete Your Review
-            |[b] Return To Review Page
-            |[c] Return To Main Page
+            |   READ-REVIEW COMPLETED 📌
+            |[a] Return To Review Page
+            |[b] Return To Main Page
             |
             |Choose An Option: """.stripMargin)
         val input = scala.io.StdIn.readLine()
@@ -402,18 +401,14 @@ object Main {
         input match {
           case "a" =>
             Run_Program.delay(1000)
-            DeleteReview()
-
-          case "b" =>
-            Run_Program.delay(1000)
             Walmart_Review()
 
-          case "c" =>
+          case "b" =>
             Run_Program.delay(1000)
             login_menu()
 
           case _ =>
-            println("Wrong Entry, Choose Another Option [a][b][c]:")
+            println("Wrong Entry, Choose Another Option [a][b]:")
             ReadReviewInDatabase()
         }
       case Failure(ex) =>
@@ -447,7 +442,7 @@ object Main {
   def DeleteReview(): Unit = {
 
     println("---" * 30)
-    println("To Delete Your Reviews\nPlease Enter Your Username:\n ")
+    println("To Delete Your Reviews\nPlease Enter Your Username: ")
     val username_in: String = scala.io.StdIn.readLine()
 
     /*Established Postgres Connection To Delete Review In Postgres Database*/
@@ -502,11 +497,12 @@ object Main {
         |   REVIEW OPTIONS 📌
         |[1] Write Review
         |[2] Read All Review
-        |[3] Return To Main Page
+        |[3] Delete Your Review
+        |[4] Return To Main Page
         |
         |Choose An Option: """.stripMargin)
-
     val input: String = scala.io.StdIn.readLine()
+
     input match {
       case "1" =>
         WriteReviewInDatabase()
@@ -515,6 +511,10 @@ object Main {
         ReadReviewInDatabase()
 
       case "3" =>
+        Run_Program.delay(1000)
+        DeleteReview()
+
+      case "4" =>
         Run_Program.delay(1000)
         login_menu()
 

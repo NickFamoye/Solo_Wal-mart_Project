@@ -1,7 +1,7 @@
 package Walmart_Project1
 
 /*Imported Dependencies Needed To Optimize The Application*/
-import Walmart_Project1.Main.{Admin, DeleteAccount, ForgotPassword, LoginPostgress, ReadReviewInDatabase, SignupPostgress, WriteReviewInDatabase}
+import Walmart_Project1.Main.{Admin, DeleteAccount, DeleteReview, ForgotPassword, LoginPostgress, ReadReviewInDatabase, SignupPostgress, WriteReviewInDatabase}
 import Walmart_Project1.Run_Program.queryApp
 
 import scala.Console.println
@@ -168,7 +168,8 @@ object Menu_Options {
         |   REVIEW OPTIONS 📌
         |[1] Write Review
         |[2] Read All Review
-        |[3] Return To Main Page
+        |[3] Delete Your Review
+        |[4] Return To Main Page
         |
         |Choose An Option: """.stripMargin)
     val input: String = scala.io.StdIn.readLine()
@@ -182,6 +183,10 @@ object Menu_Options {
         ReadReviewInDatabase()
 
       case "3" =>
+        Run_Program.delay(1000)
+        DeleteReview()
+
+      case "4" =>
         Run_Program.delay(1000)
         login_menu()
 
