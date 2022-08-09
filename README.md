@@ -25,11 +25,11 @@ This application has the features and capacity to analyze and deduce empirical f
 ⚛ Intellij - 2022 version
 
 ## Menu Features
-⚛ login To Postgress Database To View SparkSQL Analysis On Dataset such as:
+⚛ login To Postgress Database To View SparkSQL Analysis On Dataset Such As:
  - Groceries Budget Analysis
  - Prescription Drug Budget Analysis
 
-⚛ Using Slick Library to accomplish CRUD operation task such as :
+⚛ Using Slick Library To Accomplish CRUD Operation Task Such As :
 
  - Signup New User Into Postgres Database
  - Write And Read Review From Postgres Database
