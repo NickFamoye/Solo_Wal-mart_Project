@@ -62,6 +62,12 @@ Slick will be using the JDBC connection implementation from the PGSimpleDataSour
 
 Ensure you follow the above configurations, after which you can input the code into you preferred IDE and run the menu.  
 
+## Attributes
+
+I will like to especially appreciate Ethan Kempf for his amazing contribution all through the project, thanks for providing me with the data set to analyze, and 
+
+Erienne for your eminent organization skills. 
+
 ## Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-famoye/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye) 
