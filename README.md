@@ -1,4 +1,4 @@
-# Solo_Wal-mart_Project
+# Wal-mart Solo Project
 As of recent times we've seen the inflation rate spike to 8.6% which has caused prices of essential needs to raise drastically, therefore  It is imperative and extremely cogent to put into consideration your monthly, daily, and overall expenses which Studies have shown that grocery expenses are one of the highest expenses we acquire in a household.
 
 As a father, the constant and unending grocery lists of requests from my kids are one of the motivations for developing this application. This application has the features and capacity to analyze and deduce empirical facts in deciding which retail store is cost-effective.
